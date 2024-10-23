@@ -4,7 +4,6 @@ body {
   color: white;
 }
 
-
 a {
   color: white;
   text-decoration: none;
@@ -13,10 +12,9 @@ a {
 .imgsize {
   display: block;
   margin: 0 auto;
-    max-width: 850px;
-
+  max-width: 850px;
 }
 
-.contact {
-    text-align: center;
+.container {
+  max-width: 900px;
 }
